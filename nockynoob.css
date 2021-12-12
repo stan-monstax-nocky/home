@@ -1,0 +1,29 @@
+body{
+	background-color:rgb(240,236,249);
+	position:absolute;
+	top:5%;
+	left:8%;
+	right:8%;
+}
+
+img{
+	border-width:5px;
+	border-color:rgb(154,106,190);
+	border-style:solid;
+	width:90%;
+}
+
+h1{
+	font-family:"Verdana","Times New Roman","Serif";
+	font-size:40px;
+}
+
+h2{
+	font-size:26px;
+	font-family:"Verdana","Times New Roman","Serif";
+}
+
+p{
+	font-size:18px;
+	font-family:"Verdana","Times New Roman","Serif";
+}
